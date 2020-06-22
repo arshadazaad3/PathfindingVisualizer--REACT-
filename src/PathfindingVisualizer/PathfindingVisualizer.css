@@ -1,3 +1,20 @@
 .grid {
   margin: 100px 0 0;
 }
+
+.dijkstraAlgoButton{
+  background-color: aqua;
+  border: none;
+  padding: 20px;
+  cursor: pointer;
+  border-radius: 22px;
+}
+
+.dijkstraAlgoButton:hover{
+  opacity: 60%;
+}
+
+.buttonsContainer{
+  margin-top: 10px;
+
+}
